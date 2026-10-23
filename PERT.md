@@ -14,21 +14,13 @@
 
 Используется трёхточечная оценка PERT:
 
-\[
-TE = \frac{O + 4M + P}{6}
-\]
+TE = (O + 4M + P) / 6
 
-\[
-\sigma^2 = \left(\frac{P - O}{6}\right)^2
-\]
+σ² = ((P - O) / 6)²
 
-\[
-\sigma_{project} = \sqrt{\sum \sigma^2_{\text{критический путь}}}
-\]
+σ_project = √(Σ σ² работ на критическом пути)
 
-\[
-Z = \frac{T_{\text{дедлайн}} - TE_{\text{крит}}}{\sigma_{project}}
-\]
+Z = (T_дедлайн - TE_крит) / σ_project
 
 Где:
 
