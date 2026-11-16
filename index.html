@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Магазин мебели Tumba — Итерация 1</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Простая шапка сайта -->
+  <header>
+    <div class="header-container">
+      <div class="logo">
+        <h1>TUMBA</h1>
+        <span>интернет-магазин мебели (прототип, спринт 1)</span>
+      </div>
+      <div class="header-info">
+        <span>Статус: Итерация 1 (Каталог и витрина)</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Блок с фильтрацией по категориям -->
+  <div class="container main-content">
+    
+    <div class="catalog-header">
+      <h2>Каталог товаров</h2>
+      <p>Выберите категорию мебели для фильтрации:</p>
+      
+      <div class="filters-bar" id="filters-container">
+        <!-- Кнопки категорий генерируются из JS -->
+      </div>
+    </div>
+
+    <!-- Сетка товаров (не менее 8 товаров по заданию) -->
+    <div class="products-list" id="products-list">
+      <!-- Товары выводятся скриптом -->
+    </div>
+
+  </div>
+
+  <!-- Простое модальное окно с подробным описанием товара -->
+  <div id="product-modal" class="modal">
+    <div class="modal-content">
+      <span class="close-btn" onclick="closeProductModal()">&times;</span>
+      <h3 id="modal-title">Название товара</h3>
+      <img id="modal-image" src="" alt="Фото товара" class="modal-img">
+      <p id="modal-price" class="modal-price"></p>
+      <p id="modal-category" class="modal-category"></p>
+      <div class="modal-desc">
+        <h4>Описание:</h4>
+        <p id="modal-description"></p>
+      </div>
+      <div class="modal-specs">
+        <h4>Характеристики:</h4>
+        <ul id="modal-specs-list"></ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Модальное окно для 152-ФЗ -->
+  <div id="legal-modal" class="modal">
+    <div class="modal-content legal-content">
+      <span class="close-btn" onclick="closeLegalModal()">&times;</span>
+      <h3 id="legal-title">Документ</h3>
+      <div id="legal-body" class="legal-text"></div>
+    </div>
+  </div>
+
+  <!-- Подвал сайта с обязательными ссылками по 152-ФЗ -->
+  <footer>
+    <div class="container footer-container">
+      <div class="footer-info">
+        <p><strong>Магазин мебели «Tumba»</strong></p>
+        <p>Учебный проект • Команда ИСП • Итерация 1 (ноябрь 2026)</p>
+      </div>
+      <div class="footer-links">
+        <p><strong>Документы по 152-ФЗ:</strong></p>
+        <a href="#" onclick="openPolicy(event)">Политика обработки персональных данных</a>
+        <br>
+        <a href="#" onclick="openConsent(event)">Согласие на обработку персональных данных</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
