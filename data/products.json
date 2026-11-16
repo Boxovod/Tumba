@@ -1,0 +1,321 @@
+[
+  {
+    "id": 1,
+    "sku": "TUM-SOF-01",
+    "title": "Диван прямой «Осло»",
+    "category": "Диваны",
+    "price": 48900,
+    "oldPrice": 54000,
+    "stock": "В наличии",
+    "dimensions": "220 × 95 × 85 см",
+    "rating": 4.9,
+    "reviewsCount": 24,
+    "description": "Стильный скандинавский трехместный диван с независимым пружинным блоком Pocket Spring и каркасом из массива сосны. Идеален для ежедневного сна и уютных вечеров.",
+    "specs": {
+      "Механизм трансформации": "Пантограф (Тик-так)",
+      "Спальное место": "145 × 195 см",
+      "Наполнитель": "Независимый пружинный блок + ППУ HR",
+      "Каркас": "Массив сосны, березовая фанера",
+      "Бельевой ящик": "Есть, ламинированный"
+    },
+    "variations": [
+      {
+        "name": "Серый графит (велюр)",
+        "colorHex": "#4A4D52",
+        "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?auto=format&fit=crop&w=1000&q=80",
+        "price": 48900
+      },
+      {
+        "name": "Изумрудный бархат",
+        "colorHex": "#1F4E42",
+        "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1000&q=80",
+        "price": 51900
+      },
+      {
+        "name": "Бежевый шенилл",
+        "colorHex": "#D8CAB8",
+        "image": "https://images.unsplash.com/photo-1544457070-4cd773b4d71e?auto=format&fit=crop&w=1000&q=80",
+        "price": 49900
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": 2,
+    "sku": "TUM-SOF-02",
+    "title": "Диван угловой «Честер»",
+    "category": "Диваны",
+    "price": 74500,
+    "oldPrice": 82000,
+    "stock": "В наличии",
+    "dimensions": "280 × 175 × 90 см",
+    "rating": 4.8,
+    "reviewsCount": 18,
+    "description": "Просторный угловой диван с глубокой посадкой и мягкими приспинными подушками. Универсальный угол (собирается на любую сторону).",
+    "specs": {
+      "Механизм трансформации": "Дельфин",
+      "Спальное место": "155 × 225 см",
+      "Наполнитель": "Высокоэластичный ППУ + синтепух",
+      "Каркас": "Брус хвойных пород, металлокаркас",
+      "Бельевой ящик": "Вместительная оттоманка с газлифтом"
+    },
+    "variations": [
+      {
+        "name": "Темно-серый меланж",
+        "colorHex": "#3A3D40",
+        "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?auto=format&fit=crop&w=1000&q=80",
+        "price": 74500
+      },
+      {
+        "name": "Оливковый велюр",
+        "colorHex": "#556B2F",
+        "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1000&q=80",
+        "price": 76900
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": 3,
+    "sku": "TUM-TBL-01",
+    "title": "Обеденный стол «Лофт»",
+    "category": "Столы",
+    "price": 26900,
+    "oldPrice": 31000,
+    "stock": "В наличии",
+    "dimensions": "160 × 90 × 75 см",
+    "rating": 5.0,
+    "reviewsCount": 31,
+    "description": "Массивный обеденный стол с фактурной столешницей из массива дуба и прочным металлическим подстольем с порошковым матовым покрытием.",
+    "specs": {
+      "Материал столешницы": "Массив дуба, покрытие матовым маслом Rubio",
+      "Толщина столешницы": "40 мм",
+      "Подстолье": "Стальной профиль 60×40 мм",
+      "Вместимость": "до 8 персон"
+    },
+    "variations": [
+      {
+        "name": "Дуб натуральный",
+        "colorHex": "#C19A6B",
+        "image": "https://images.unsplash.com/photo-1530018607912-eff2daa1bac4?auto=format&fit=crop&w=1000&q=80",
+        "price": 26900
+      },
+      {
+        "name": "Темный орех",
+        "colorHex": "#4A2F1B",
+        "image": "https://images.unsplash.com/photo-1538688525198-9b88f6f53126?auto=format&fit=crop&w=1000&q=80",
+        "price": 28500
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1530018607912-eff2daa1bac4?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": 4,
+    "sku": "TUM-TBL-02",
+    "title": "Письменный стол «Сканди Модерн»",
+    "category": "Столы",
+    "price": 19400,
+    "oldPrice": null,
+    "stock": "В наличии",
+    "dimensions": "120 × 60 × 76 см",
+    "rating": 4.7,
+    "reviewsCount": 15,
+    "description": "Эргономичный рабочий стол для домашнего кабинета. Оборудован двумя бесшумными выдвижными ящиками с доводчиками и скрытым органайзером для проводов.",
+    "specs": {
+      "Материал": "МДФ эмаль + массив ясеня",
+      "Ящики": "2 шт. со скрытыми направляющими Hettich",
+      "Нагрузка": "до 80 кг"
+    },
+    "variations": [
+      {
+        "name": "Белый матовый + Ясень",
+        "colorHex": "#F5F5F5",
+        "image": "https://images.unsplash.com/photo-1538688525198-9b88f6f53126?auto=format&fit=crop&w=1000&q=80",
+        "price": 19400
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1538688525198-9b88f6f53126?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": 5,
+    "sku": "TUM-WDR-01",
+    "title": "Шкаф трехдверный «Нордик»",
+    "category": "Шкафы",
+    "price": 52000,
+    "oldPrice": 59000,
+    "stock": "Под заказ (5 дней)",
+    "dimensions": "150 × 60 × 220 см",
+    "rating": 4.9,
+    "reviewsCount": 12,
+    "description": "Вместительный гардеробный шкаф с продуманным наполнением: штанга для длинной одежды, антресольные полки и блок из 4 выдвижных ящиков.",
+    "specs": {
+      "Корпус": "ЛДСП Egger 16 мм (класс эмиссии E0.5)",
+      "Фасады": "Фрезерованный МДФ в матовой плёнке Soft-Touch",
+      "Петли": "Sensys с встроенными демпферами плавного закрытия"
+    },
+    "variations": [
+      {
+        "name": "Светлый дуб + Белый",
+        "colorHex": "#E8D8C8",
+        "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&w=1000&q=80",
+        "price": 52000
+      },
+      {
+        "name": "Графит софт-тач",
+        "colorHex": "#383B3E",
+        "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&w=1000&q=80",
+        "price": 54500
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": 6,
+    "sku": "TUM-CHR-01",
+    "title": "Кресло для отдыха «Хюгге»",
+    "category": "Кресла",
+    "price": 21500,
+    "oldPrice": 25000,
+    "stock": "В наличии",
+    "dimensions": "85 × 80 × 95 см",
+    "rating": 4.9,
+    "reviewsCount": 42,
+    "description": "Анатомическое кресло с «ушами» (wingback chair), создающее атмосферу уединения и комфорта. Идеально для чтения книг у камина.",
+    "specs": {
+      "Каркас": "Березовая фанера высшего сорта",
+      "Опоры": "Массив бука под прозрачным лаком",
+      "Ткань": "Износостойкий антивандальный велюр (50 000 циклов Martindale)"
+    },
+    "variations": [
+      {
+        "name": "Терракота",
+        "colorHex": "#C85A32",
+        "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1000&q=80",
+        "price": 21500
+      },
+      {
+        "name": "Океанический синий",
+        "colorHex": "#1F3A52",
+        "image": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=1000&q=80",
+        "price": 22500
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": 7,
+    "sku": "TUM-CHR-02",
+    "title": "Стул обеденный «Эймс Вуд» (комплект 2 шт.)",
+    "category": "Стулья",
+    "price": 11900,
+    "oldPrice": 14000,
+    "stock": "В наличии",
+    "dimensions": "46 × 53 × 82 см",
+    "rating": 4.8,
+    "reviewsCount": 56,
+    "description": "Легендарный эргономичный дизайн. Монолитная раковина из первичного полипропилена на ножках из массива бука со стальными перемычками.",
+    "specs": {
+      "Количество в комплекте": "2 шт.",
+      "Материал сиденья": "Ударопрочный матовый эко-полипропилен",
+      "Опоры": "Натуральный бук, порошковое покрытие металла",
+      "Максимальная нагрузка": "130 кг"
+    },
+    "variations": [
+      {
+        "name": "Белый",
+        "colorHex": "#FAFAFA",
+        "image": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=1000&q=80",
+        "price": 11900
+      },
+      {
+        "name": "Черный уголь",
+        "colorHex": "#222222",
+        "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1000&q=80",
+        "price": 11900
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": 8,
+    "sku": "TUM-TMB-01",
+    "title": "Тумба под ТВ «Линейка»",
+    "category": "Тумбы",
+    "price": 18700,
+    "oldPrice": 22000,
+    "stock": "В наличии",
+    "dimensions": "180 × 40 × 50 см",
+    "rating": 4.9,
+    "reviewsCount": 19,
+    "description": "Длинная низкая тумба под телевизор диагональю до 75 дюймов. Реечные фасады пропускают сигнал ИК-пульта внутрь отделений.",
+    "specs": {
+      "Материал": "Шпонированный МДФ (дуб) + металл",
+      "Фасады": "Реечные жалюзийные створки",
+      "Кабель-менеджмент": "3 отверстия с заглушками"
+    },
+    "variations": [
+      {
+        "name": "Дуб крафт + черный металл",
+        "colorHex": "#9E7B54",
+        "image": "https://images.unsplash.com/photo-1532372320572-cda25653a26d?auto=format&fit=crop&w=1000&q=80",
+        "price": 18700
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1532372320572-cda25653a26d?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": 9,
+    "sku": "TUM-TMB-02",
+    "title": "Прикроватная тумба «Мини»",
+    "category": "Тумбы",
+    "price": 7800,
+    "oldPrice": null,
+    "stock": "В наличии",
+    "dimensions": "45 × 40 × 48 см",
+    "rating": 4.7,
+    "reviewsCount": 27,
+    "description": "Компактная прикроватная тумба с открытой нишей для книг и закрытым ящиком для личных вещей. Мягкие скругленные углы безопасны для спальни.",
+    "specs": {
+      "Материал": "Массив березы, матовая эмаль",
+      "Ящик": "Направляющие с доводчиком Push-to-Open",
+      "Высота ножек": "18 см (проезжает робот-пылесос)"
+    },
+    "variations": [
+      {
+        "name": "Белый матовый",
+        "colorHex": "#F9F9F9",
+        "image": "https://images.unsplash.com/photo-1519961655809-34fa156820ff?auto=format&fit=crop&w=1000&q=80",
+        "price": 7800
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1519961655809-34fa156820ff?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": 10,
+    "sku": "TUM-BED-01",
+    "title": "Кровать двуспальная «Сканди Сон»",
+    "category": "Кровати",
+    "price": 38900,
+    "oldPrice": 45000,
+    "stock": "В наличии",
+    "dimensions": "160 × 200 см (габарит 174 × 212 × 105 см)",
+    "rating": 5.0,
+    "reviewsCount": 38,
+    "description": "Кровать с мягким объемным изголовьем в скандинавском стиле. В комплекте ортопедическое основание с гибкими березовыми ламелями.",
+    "specs": {
+      "Спальное место": "160 × 200 см",
+      "Изголовье": "Мягкое, съемный чехол на липучках",
+      "Основание": "Металлокаркас с ламелями из березы",
+      "Материал обивки": "Фактурная рогожка с водоотталкивающей пропиткой"
+    },
+    "variations": [
+      {
+        "name": "Светло-серый",
+        "colorHex": "#D3D5D7",
+        "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1000&q=80",
+        "price": 38900
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1000&q=80"
+  }
+]

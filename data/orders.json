@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ord_1794844277_88",
+    "orderNumber": "TUMBA-2026-3304",
+    "userId": null,
+    "createdAt": "2026-11-16T15:51:17Z",
+    "status": "Принят в обработку",
+    "statusBadge": "В обработке",
+    "items": [
+      {
+        "id": 1,
+        "title": "Диван Осло",
+        "price": 48900,
+        "quantity": 1,
+        "variationName": "Серый графит"
+      }
+    ],
+    "totalAmount": 48900,
+    "customer": {
+      "fullName": "Иван Иванов",
+      "phone": "+7 (999) 123-45-67",
+      "email": "demo@tumba.ru"
+    },
+    "delivery": {
+      "method": "Курьер Tumba",
+      "address": "ул. Мира, 1"
+    },
+    "payment": {
+      "method": "Карта",
+      "status": "Оплачено (тестовый платеж)",
+      "cardMask": "**** 4242"
+    }
+  }
+]

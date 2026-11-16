@@ -1,0 +1,31 @@
+[
+  {
+    "id": "usr_demo",
+    "email": "demo@tumba.ru",
+    "password": "password123",
+    "fullName": "Иванов Иван Иванович",
+    "phone": "+7 (999) 123-45-67",
+    "address": "г. Москва, ул. Ленина, д. 10, кв. 42",
+    "createdAt": "2026-11-03T10:00:00Z",
+    "consent152fz": {
+      "granted": true,
+      "grantedAt": "2026-11-03T10:00:00Z",
+      "ip": "127.0.0.1",
+      "docVersion": "2.0-2026"
+    }
+  },
+  {
+    "id": "usr_1794844273_920",
+    "email": "test_user@tumba.ru",
+    "password": "testpassword",
+    "fullName": "Тестовый Пользователь",
+    "phone": "+7 (999) 111-22-33",
+    "createdAt": "2026-11-16T15:51:13Z",
+    "consent152fz": {
+      "granted": true,
+      "grantedAt": "2026-11-16T15:51:13Z",
+      "ip": "127.0.0.1",
+      "docVersion": "2.0-2026"
+    }
+  }
+]
